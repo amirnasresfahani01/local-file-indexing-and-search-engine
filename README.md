@@ -66,4 +66,4 @@ highlight_search_query(text, query): Highlights search terms in the text.
 
 Contact
 
-For any questions or issues, contact [amir.nasresfahani01@universitadipavia.it]. or you cna ask me on my linkedin : www.linkedin.com/in/amir-nasr-esfahani-584b90142
+For any questions or issues, contact [amir.mza44@gmail.com]. or you cna ask me on my linkedin : www.linkedin.com/in/amir-nasr-esfahani-584b90142
