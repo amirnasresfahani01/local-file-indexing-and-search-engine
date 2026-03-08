@@ -47,7 +47,7 @@ project/
 Clone the repository:
 
 ~~~bash
-git clone https://github.com/amirnasresfahani01/Local-File-Indexing-and-Search-Engine.git
+git clone https://github.com/amirnasresfahani01/local-file-indexing-and-search-engine.git
 cd Local-File-Indexing-and-Search-Engine
 ~~~
 
