@@ -47,8 +47,8 @@ project/
 Clone the repository:
 
 ~~~bash
-git clone https://github.com/amirnasresfahani01/html-parser-search-tool.git
-cd html-parser-search-tool
+git clone https://github.com/amirnasresfahani01/Local-File-Indexing-and-Search-Engine.git
+cd Local-File-Indexing-and-Search-Engine
 ~~~
 
 Install dependencies:
